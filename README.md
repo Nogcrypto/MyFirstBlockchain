@@ -1,1 +1,1 @@
-# MyFirstBlockchain
+Minha primeira criação de uma Blockchain Proof of Work e para isso utilizei o Anaconda juntamente com o IDE Spyder, Flask como a interface web e o Postman para serviços HTTP para saber o estado da transação, adicionar uma transação, etc.
